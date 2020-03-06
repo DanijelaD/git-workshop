@@ -10,3 +10,6 @@ Coral belongs to the class Anthozoa in the animal phylum Cnidaria, which include
 
 Sometimes called rainforests of the sea,[2] shallow coral reefs form some of Earth's most diverse ecosystems. They occupy less than 0.1% of the world's ocean area, about half the area of France, yet they provide a home for at least 25% of all marine species,[3][4][5][6] including fish, mollusks, worms, crustaceans, echinoderms, sponges, tunicates and other cnidarians.[7] Coral reefs flourish in ocean waters that provide few nutrients. They are most commonly found at shallow depths in tropical waters, but deep water and cold water coral reefs exist on smaller scales in other areas.
 
+# Commit 3
+
+Coral reefs deliver ecosystem services for tourism, fisheries and shoreline protection. The annual global economic value of coral reefs is estimated between US$30–375 billion[8][9] and US$9.9 trillion.[10] Coral reefs are fragile, partly because they are sensitive to water conditions. They are under threat from excess nutrients (nitrogen and phosphorus), rising temperatures, oceanic acidification, overfishing (e.g., from blast fishing, cyanide fishing, spearfishing on scuba), sunscreen use,[11] and harmful land-use practices, including runoff and seeps (e.g., from injection wells and cesspools).[12][13][14]
